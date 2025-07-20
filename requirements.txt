@@ -1,0 +1,12 @@
+voila
+pandas
+numpy
+yfinance
+scipy
+pandas_datareader
+plotly
+PyPortfolioOpt
+tensorflow
+scikit-learn
+ipywidgets
+ipython
